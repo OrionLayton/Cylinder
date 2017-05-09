@@ -1,0 +1,53 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8110 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\ES2.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\ES2.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\MoodkieSecurity.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\MoodkieSecurity.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\KDTree.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\Triangle.dll (this message is harmless)
+Loading F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity Projects\Cylinder_v02\Cylinder_Build_10_04302017_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1680x1050 59Hz; virtual: 2960x1050 at 0,0
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 424)
+
+UnloadTime: 0.401628 ms
+Connected to lighthouse:LHR-38CFA2F9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
